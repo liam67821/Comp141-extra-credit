@@ -1,0 +1,4 @@
+  PID TTY           TIME CMD
+30252 ttys000    0:00.05 -bash
+30684 ttys000    0:00.01 -bash
+30692 ttys000    0:00.00 head -5
